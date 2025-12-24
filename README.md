@@ -211,9 +211,9 @@ Formula: `Denda = Jumlah Hari Terlambat × Tarif Denda Per Hari`
 - PDF (untuk cetak)
 
 👨‍💻 Developer
-Dikembangkan oleh [@rafdwn](https://github.com/rafdwn)
+<br>Dikembangkan oleh [@rafdwn](https://github.com/rafdwn)
 
 📞 Kontak & Support
-Untuk pertanyaan atau dukungan, silakan hubungi:
+Untuk pertanyaan atau dukungan, silakan hubungi:<br>
 📧 Email: [rafdwn@gmail.com](mailto:rafdwn@gmail.com)
 
